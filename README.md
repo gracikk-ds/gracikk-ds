@@ -12,9 +12,8 @@
 - [Detection project](https://github.com/gracikk-ds/detection) - the final project of the Deep Learning School. The current version of the repository allows you to test the quality of the YOLOv3 detector trained to detect knives and pistols. Also, you can see the screens of my simple demo
 - [Basic Data Science EPAM](https://github.com/gracikk-ds/basic_ds_epam) Here you can see all my homework, which I was doing during the Basic Data Science EPAM course.
 - [CourseWork in Finance](https://github.com/gracikk-ds/finance_course) is my very first project in the Data Science sphere. I was trying to test the hypothesis of an efficient market, and based on the conclusions, built an investment portfolio constructor. It really helps me to get a deeper understanding of things that I've learned from the [Yandex ML Course](https://yandex.ru/promo/academy/data_analysis)
-- [DeepLearningSchool](https://github.com/gracikk-ds/DeepLearningSchool) And here you can see all my homework, which I was doing during the Deep Learning School course.
-"[//]: <> (- Also, I've got a repo with my self-made algorithms that you can see here [Algo](https://github.com/gracikk-ds/YouTubeVideoCode))
-
+- [DeepLearningSchool](https://github.com/gracikk-ds/DeepLearningSchool) And here you can see all my homework, which I was doing during the Deep Learning School course.  
+  
 ### 📈 GitHub Stats
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracikk-ds&count_private=true&hide=contribs&show_icons=true&theme=radical)
