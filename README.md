@@ -10,9 +10,8 @@
 - ⚡ Fun fact: I love to do morning yoga and read fantasy books 😊
 
 ### Some My Projects
-- The first one
-- The second one
-- The third one
+- [CourseWork in Finance](https://github.com/gracikk-ds/finance_course) is my very first project in the Data Science sphere. I was trying to test the hypothesis of an efficient market, and based on the conclusions, built an investment portfolio constructor.
+- [Detection project](https://github.com/gracikk-ds/detection) - the final project of the Deep Learning School. The current version of the repository allows you to test the quality of the YOLOv3 detector trained to detect knives and pistols. Also, you can check the screens of my simple demo
 
 ### 📈 GitHub Stats
 
