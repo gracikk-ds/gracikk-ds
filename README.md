@@ -13,6 +13,7 @@
 - [Basic Data Science EPAM](https://github.com/gracikk-ds/basic_ds_epam) Here you can see all my homework, which I was doing during the Basic Data Science EPAM course.
 - [CourseWork in Finance](https://github.com/gracikk-ds/finance_course) is my very first project in the Data Science sphere. I was trying to test the hypothesis of an efficient market, and based on the conclusions, built an investment portfolio constructor. It really helps me to get a deeper understanding of things that I've learned from the [Yandex ML Course](https://yandex.ru/promo/academy/data_analysis)
 - [DeepLearningSchool](https://github.com/gracikk-ds/DeepLearningSchool) And here you can see all my homework, which I was doing during the Deep Learning School course.  
+- [YandexAlgorithm](https://github.com/gracikk-ds/Yandex.Algorithms) Recently I've joined Yandex.Algorithm training. I will keep my progress here.
   
 ### 📈 GitHub Stats
 
