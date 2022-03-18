@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex aka gracikk 👋
 
-### I'm working for EPAM Systems :cupid: as a Data Scientist
+### I'm working for EPAM Systems as a Data Scientist
 
 - 🌱 I’m currently learning everything, but especially computer vision concepts
 - :two_men_holding_hands: I'm looking to collaborate with other DS specialists
