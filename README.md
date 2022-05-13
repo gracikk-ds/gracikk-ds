@@ -1,4 +1,4 @@
-### Hi there, I'm Alex aka gracikk 👋
+### Hi there, I'm Sasha aka gracikk 👋
 
 ### I'm working for EPAM Systems as a Data Scientist
 
