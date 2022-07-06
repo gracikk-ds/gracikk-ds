@@ -7,7 +7,7 @@
 - 🔭 I've finished the Advanced CV EPAM course recently, you can check it out [here](https://github.com/gracikk-ds/cv-epam-course)!
 - 🥅 2022 Goals: Just wanna get out of all this shit.
 - ⚡ Fun fact: I love to do morning yoga and read fantasy books 😊
-- [here](https://github.com/gracikk-ds/ml-ops) you can check my CV
+- [Here](https://github.com/gracikk-ds/cv) you can find my CV
 
 ### Some My Projects
 - [ML Engineering EPAM](https://github.com/gracikk-ds/ml-ops) - repository where you can check out all work that I've been doing during my ml-ops course.
