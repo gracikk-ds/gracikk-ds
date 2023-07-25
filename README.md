@@ -9,13 +9,11 @@
 - ⚡ Fun fact: I love to do morning yoga and read fantasy books 😊
 - :page_with_curl: [Here](https://github.com/gracikk-ds/cv) you can find my resume
 
-### Some My Projects
+### Some of My Projects
 - [ML Engineering EPAM](https://github.com/gracikk-ds/ml-ops) - repository where you can check out all work that I've been doing during my ml-ops course.
 - [Basic Data Science EPAM](https://github.com/gracikk-ds/basic_ds_epam) Here you can see all my homework, which I did during the Basic Data Science EPAM course.
 - [Computer Vision course EPAM](https://github.com/gracikk-ds/cv-epam-course) And here I store my homework, which I did during the Advanced CV EPAM course.
 - [DeepLearningSchool](https://github.com/gracikk-ds/DeepLearningSchool) And here you can see all my homework, which I did during the Deep Learning School course.  
-- [YandexAlgorithm](https://github.com/gracikk-ds/yandex-algo-trainings) Recently I've joined Yandex.Algorithm training. I will keep my progress here.
-- [Finance](https://github.com/gracikk-ds/finance_course) is my very first project in the Data Science sphere. I was trying to test the hypothesis of an efficient market, and based on the conclusions, built an investment portfolio constructor. It really helps me to get a deeper understanding of things that I've learned from the [Yandex ML Course](https://yandex.ru/promo/academy/data_analysis)
   
 ### 📈 GitHub Stats
 
