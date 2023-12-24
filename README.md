@@ -28,11 +28,9 @@ Although I find myself delving into the world of LLMs, my heart lies in the real
 ### Connect with me:
 
 [<img align="left" alt="gracikk | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="gracikk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gracikk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img align="left" alt="gracikk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 
 [twitter]: https://twitter.com/gracikk
-[instagram]: https://www.instagram.com/gracikk/
 [telegram]: https://t.me/gracikk
 
