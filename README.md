@@ -1,6 +1,6 @@
 **Hello World!** 🌐  
-**I'm Sasha (gracikk)** 👋  
-**Computer Vision Engineer at SberDevices**  
+I'm Sasha (gracikk) 👋  
+*Computer Vision Engineer at SberDevices*  
 
 As a passionate Computer Vision Engineer, I'm constantly exploring new concepts in the field.  
 Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
