@@ -6,7 +6,7 @@ As a passionate Computer Vision Engineer, I'm constantly exploring new concepts 
 Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
 
 - 🌱 **Currently Learning:** Advanced computer vision techniques and their applications.  
-- :two_men_holding_hands: **Looking to Collaborate:** Eager to connect with fellow Data Science professionals.  
+- :two_men_holding_hands: **Looking to Collaborate:** Eager to connect with Data Science professionals.  
 - 🎓 **Recent Achievement:** Completed the CV Rocket course. Check out my [projects and learnings](https://github.com/gracikk-ds/cv-epam-course)! 
 - ⚡ **Fun Fact:** Avid morning yoga enthusiast and fantasy book reader.  
 - 🥅 **Goals for 2024:**  
