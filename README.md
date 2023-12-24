@@ -1,19 +1,24 @@
-### Hi there, I'm Sasha aka gracikk 👋
+**Hello World!** 🌐  
+**I'm Sasha (gracikk)** 👋  
+**Computer Vision Engineer at SberDevices**  
 
-### I'm working for EPAM Systems as a Data Scientist
+As a passionate Computer Vision Engineer, I'm constantly exploring new concepts in the field.  
+Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
 
-- 🌱 I’m currently learning everything, but especially computer vision concepts
-- :two_men_holding_hands: I'm looking to collaborate with other DS specialists
-- 🔭 I've finished the Advanced CV EPAM course recently, you can check it out [here](https://github.com/gracikk-ds/cv-epam-course)!
-- 🥅 2022 Goals: Just wanna get out of all this shit.
-- ⚡ Fun fact: I love to do morning yoga and read fantasy books 😊
-- :page_with_curl: [Here](https://github.com/gracikk-ds/cv) you can find my resume
+- 🌱 **Currently Learning:** Advanced computer vision techniques and their applications.  
+- :two_men_holding_hands: **Looking to Collaborate:** Eager to connect with fellow Data Science professionals.  
+- 🎓 **Recent Achievement:** Completed the CV Rocket course. Check out my [projects and learnings](https://github.com/gracikk-ds/cv-epam-course)! 
+- ⚡ **Fun Fact:** Avid morning yoga enthusiast and fantasy book reader.  
+- 🥅 **Goals for 2024:**  
+  1. Excel in the ShadHelper course.  
+  2. Publish a paper on movie shot detection.  
 
 ### Some of My Projects
-- [ML Engineering EPAM](https://github.com/gracikk-ds/ml-ops) - repository where you can check out all work that I've been doing during my ml-ops course.
-- [Basic Data Science EPAM](https://github.com/gracikk-ds/basic_ds_epam) Here you can see all my homework, which I did during the Basic Data Science EPAM course.
-- [Computer Vision course EPAM](https://github.com/gracikk-ds/cv-epam-course) And here I store my homework, which I did during the Advanced CV EPAM course.
-- [DeepLearningSchool](https://github.com/gracikk-ds/DeepLearningSchool) And here you can see all my homework, which I did during the Deep Learning School course.  
+- [CV Rocket](https://github.com/gracikk-ds/cv-rocket) - A compilation of my work from the CV Rocket course.
+- [ML Engineering @ EPAM](https://github.com/gracikk-ds/ml-ops) - Projects and insights from my ML Ops course.
+- [Computer Vision course @ EPAM](https://github.com/gracikk-ds/cv-epam-course) - A collection of my work from the Advanced Computer Vision course.
+- [Basic Data Science @ EPAM](https://github.com/gracikk-ds/basic_ds_epam) - Homework and projects from the Basic DS course.
+- [Deep Learning School](https://github.com/gracikk-ds/DeepLearningSchool) - My journey and assignments from the Deep Learning School. 
   
 ### 📈 GitHub Stats
 
