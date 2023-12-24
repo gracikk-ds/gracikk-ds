@@ -31,6 +31,6 @@ Although I find myself delving into the world of LLMs, my heart lies in the real
 [<img align="left" alt="gracikk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 
-[twitter]: https://twitter.com/gracikk
+[LinkedIn]: https://twitter.com/gracikk
 [telegram]: https://t.me/gracikk
 
