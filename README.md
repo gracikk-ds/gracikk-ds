@@ -2,13 +2,13 @@
 *Senior Computer Vision Engineer @ SberAI*  
 
 ### My Research Papers
-**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**
+**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**
 ```bibtex
-@article{gordeev2024saliency,
-  title={Saliency-guided detr for moment retrieval and highlight detection},
-  author={Gordeev, Aleksandr and Dokholyan, Vladimir and Tolstykh, Irina and Kuprashevich, Maksim},
-  journal={arXiv preprint arXiv:2410.01615},
-  year={2024}
+@article{kuprashevich2025nohumansrequired,
+  title={NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining},
+  author={Kuprashevich, Maksim and Alekseenko, Grigorii and Tolstykh, Irina and Fedorov, Georgii and Suleimanov, Bulat and Dokholyan, Vladimir and Gordeev, Aleksandr},
+  journal={arXiv preprint arXiv:2507.14119},
+  year={2025}
 }
 ```
 **Gigacheck: Detecting llm-generated content**
@@ -20,13 +20,13 @@
   year={2024}
 }
 ```
-**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**
+**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**
 ```bibtex
-@article{kuprashevich2025nohumansrequired,
-  title={NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining},
-  author={Kuprashevich, Maksim and Alekseenko, Grigorii and Tolstykh, Irina and Fedorov, Georgii and Suleimanov, Bulat and Dokholyan, Vladimir and Gordeev, Aleksandr},
-  journal={arXiv preprint arXiv:2507.14119},
-  year={2025}
+@article{gordeev2024saliency,
+  title={Saliency-guided detr for moment retrieval and highlight detection},
+  author={Gordeev, Aleksandr and Dokholyan, Vladimir and Tolstykh, Irina and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2410.01615},
+  year={2024}
 }
 ```
 
