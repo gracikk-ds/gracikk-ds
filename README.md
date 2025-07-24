@@ -2,7 +2,7 @@
 *Senior Computer Vision Engineer @ SberAI*  
 
 ### My Research Papers
-1. **Saliency-Guided DETR for Moment Retrieval and Highlight Detection**
+**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**
 ```bibtex
 @article{gordeev2024saliency,
   title={Saliency-guided detr for moment retrieval and highlight detection},
@@ -11,7 +11,7 @@
   year={2024}
 }
 ```
-2. **Gigacheck: Detecting llm-generated content**
+**Gigacheck: Detecting llm-generated content**
 ```bibtex
 @article{tolstykh2024gigacheck,
   title={Gigacheck: Detecting llm-generated content},
@@ -20,7 +20,7 @@
   year={2024}
 }
 ```
-3. **NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**
+**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**
 ```bibtex
 @article{kuprashevich2025nohumansrequired,
   title={NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining},
