@@ -5,7 +5,6 @@ As a passionate Computer Vision Engineer, I'm constantly exploring new concepts 
 Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
 
 ### My Research Papers
-<details>
 <summary>BibTeX</summary>
 
 ```bibtex
@@ -18,7 +17,6 @@ Although I find myself delving into the world of LLMs, my heart lies in the real
   url     = {https://arxiv.org/abs/2410.01615}
 }
 ```
-<details>
 
 ### Some of My Projects
 - [Research Agent](https://github.com/gracikk-ds/ai-researcher) - A service to automatically load research papers from arXiv by topic and date, analyze them using an AI model (Gemini), select the most relevant ones, generate concise summaries, and publish them in Notion DB.
