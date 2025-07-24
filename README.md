@@ -5,16 +5,32 @@ As a passionate Computer Vision Engineer, I'm constantly exploring new concepts 
 Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
 
 ### My Research Papers
-<summary>BibTeX</summary>
 
+1. Saliency-Guided DETR for Moment Retrieval and Highlight Detection
 ```bibtex
-@article{Gordeev2024SaliencyGuidedDF,
-  title   = {Saliency-Guided DETR for Moment Retrieval and Highlight Detection},
-  author  = {Gordeev, Aleksandr and Dokholyan, Vladimir and
-             Tolstykh, Irina and Kuprashevich, Maksim},
-  journal = {arXiv preprint arXiv:2410.01615},
-  year    = {2024},
-  url     = {https://arxiv.org/abs/2410.01615}
+@article{gordeev2024saliency,
+  title={Saliency-guided detr for moment retrieval and highlight detection},
+  author={Gordeev, Aleksandr and Dokholyan, Vladimir and Tolstykh, Irina and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2410.01615},
+  year={2024}
+}
+```
+2. Gigacheck: Detecting llm-generated content
+```bibtex
+@article{tolstykh2024gigacheck,
+  title={Gigacheck: Detecting llm-generated content},
+  author={Tolstykh, Irina and Tsybina, Aleksandra and Yakubson, Sergey and Gordeev, Aleksandr and Dokholyan, Vladimir and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2410.23728},
+  year={2024}
+}
+```
+2. NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining
+```bibtex
+@article{kuprashevich2025nohumansrequired,
+  title={NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining},
+  author={Kuprashevich, Maksim and Alekseenko, Grigorii and Tolstykh, Irina and Fedorov, Georgii and Suleimanov, Bulat and Dokholyan, Vladimir and Gordeev, Aleksandr},
+  journal={arXiv preprint arXiv:2507.14119},
+  year={2025}
 }
 ```
 
