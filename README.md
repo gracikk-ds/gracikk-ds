@@ -1,4 +1,4 @@
-Gordeev Aleksandr
+Gordeev Aleksandr  
 *Senior Computer Vision Engineer at SberDevices*  
 
 As a passionate Computer Vision Engineer, I'm constantly exploring new concepts in the field.  
