@@ -1,12 +1,8 @@
-Gordeev Aleksandr  
-*Senior Computer Vision Engineer at SberDevices*  
-
-As a passionate Computer Vision Engineer, I'm constantly exploring new concepts in the field.  
-Although I find myself delving into the world of LLMs, my heart lies in the realm of computer vision.  
+**Gordeev Aleksandr**    
+*Senior Computer Vision Engineer @ SberAI*  
 
 ### My Research Papers
-
-1. Saliency-Guided DETR for Moment Retrieval and Highlight Detection
+1. **Saliency-Guided DETR for Moment Retrieval and Highlight Detection**
 ```bibtex
 @article{gordeev2024saliency,
   title={Saliency-guided detr for moment retrieval and highlight detection},
@@ -15,7 +11,7 @@ Although I find myself delving into the world of LLMs, my heart lies in the real
   year={2024}
 }
 ```
-2. Gigacheck: Detecting llm-generated content
+2. **Gigacheck: Detecting llm-generated content**
 ```bibtex
 @article{tolstykh2024gigacheck,
   title={Gigacheck: Detecting llm-generated content},
@@ -24,7 +20,7 @@ Although I find myself delving into the world of LLMs, my heart lies in the real
   year={2024}
 }
 ```
-2. NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining
+3. **NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**
 ```bibtex
 @article{kuprashevich2025nohumansrequired,
   title={NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining},
